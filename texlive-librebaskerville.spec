@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-librebaskerville
-Version:	20130923
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	LaTeX support for the Libre Baskerville family of fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/librebaskerville
