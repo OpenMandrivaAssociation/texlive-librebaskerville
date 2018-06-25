@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-librebaskerville
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	LaTeX support for the Libre Baskerville family of fonts
 Group:		Publishing
