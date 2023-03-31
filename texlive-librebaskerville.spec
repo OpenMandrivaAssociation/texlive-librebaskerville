@@ -1,6 +1,6 @@
 Name:		texlive-librebaskerville
 Version:	64421
-Release:	1
+Release:	2
 Summary:	LaTeX support for the Libre Baskerville family of fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/librebaskerville
