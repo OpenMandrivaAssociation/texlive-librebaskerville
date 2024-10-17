@@ -3,7 +3,7 @@ Version:	64421
 Release:	2
 Summary:	LaTeX support for the Libre Baskerville family of fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/librebaskerville
+URL:		https://www.ctan.org/tex-archive/fonts/librebaskerville
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/librebaskerville.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/librebaskerville.doc.r%{version}.tar.xz
